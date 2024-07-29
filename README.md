@@ -52,16 +52,17 @@ Now you can navigate to any of the juputer notebooks and run the code in the ker
 
 ### For the code in the src folder:
 download all requirements 
-Flask==2.3.2
-SQLAlchemy==1.4.37.
+Flask==2.3.2                
+SQLAlchemy==1.4.37.               
+
 This can easily be done by using the -r tag with the pip command.
 
 First of all, open the a terminal session in the ./src/ directory.
 
 Then, you can run the demo web application using:
-the file Updated_Demo on jupyter notebook
+the file Updated_Demo on jupyter notebook         
 
-or
+or       
 
 > python3 view.py
 Note: the use of python, python3, py, py3, pip, pip3, etc... relies solely on your specific operating system and python installation.
